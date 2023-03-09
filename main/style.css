@@ -1,0 +1,52 @@
+/* 全局樣式 */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: '微軟正黑體', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #fff;
+}
+
+/* 標題樣式 */
+header {
+  background-color: #0077c2;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 36px;
+  font-weight: normal;
+}
+/* 主要內容區樣式 */
+main {
+  padding: 20px;
+}
+
+h2 {
+  margin: 0;
+  font-size: 30px;
+  line-height: 1.5;
+}
+
+p {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin: 0 0 10px 0;
+  font-size: 16px;
+  line-height: 1.5;
+}
